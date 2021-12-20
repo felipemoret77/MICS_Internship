@@ -9,6 +9,11 @@ https://arxiv.org/abs/2003.04314;
 https://arxiv.org/pdf/1502.04592.pdf;
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3597938.
 
+- The mathematical text and a resume of results already reached can be found in the following (open) Overleaf projects:
+  - https://www.overleaf.com/read/pttpqjcnhrsh;
+  - https://www.overleaf.com/read/bqpsnzjxgbnb.   
+
+
 
 
 
